@@ -1,6 +1,14 @@
 ## Business Context
 
-A major bank wants to better predict the likelihood of default for its customers, as well as identify the key drivers that determine this likelihood. They hope that this would inform the bank’s decisions on who to give a credit to and what credit limit to provide, as well as also help the bank have a better understanding of their current and potential customers, which would inform their future strategy, including their planning of offering targeted credit products to their customers.
+A major bank wants to pilot a new product, a short-term credit line with the limit of £25,000 and line of 1 month with interest of 2% per month. Then assume that the client who was issued credit and repaid it will more likely use your bank for similar short-term financing needs in the future, which has an additional lifetime value (CLV) of £1,000. However, if the client will default, then you will be able to recover only £20,000 out of £25,000 granted.
+
+Potential profits for bank if client does not default:  25,000*2% + 1,000 = £1,500
+Potential losses for bank if client default:  25,000 - 20,000 = £5,000
+If the credit is not issued to the client:  profit = loss = 0
+
+ ## Aim of the project
+The bank wants to better predict the likelihood of default for its customers, as well as identify the key drivers that determine this likelihood, to inform its future strategy, including their planning of issuing its new short-term credit line to its more reliable customers. 
+
 
 ## Data
 
