@@ -1,4 +1,6 @@
 ![image](credit_cart_image.jpg)
+<img src="credit_cart_image.jpg" width="1000" height="500">
+<img src="credit_cart_image.jpg" width="2000" height="1000">
 
 ## Business Context
 
