@@ -1,7 +1,4 @@
-![image](credit_cart_image.jpg)
-<img src="credit_cart_image.jpg" width="1000" height="500">
-<img src="credit_cart_image.jpg" width="900" height="800">
-<img src="credit_cart_image.jpg" width="800" height="750">
+<img src="credit_cart_image.jpg" width="1000" height="600">
 
 ## Business Context
 
