@@ -1,4 +1,4 @@
-<img src="credit_cart_image.jpg" width="1000" height="600">
+<img src="credit_cart_image.jpg" width="900" height="500">
 
 ## Business Context
 
