@@ -14,3 +14,18 @@ The bank wants to better predict the likelihood of default for its customers, as
 
 The dataset that was provided for this project contained various information about 25,000 bank clients, including demographic factors, credit data, history of payment, and bill statements from April to September, as well as information on whether the customer default or not in October.
 Of those 25,000 clients, 1,000 were randomly selected as the test set and stored on “New_applications.csv” file and the remain 24,000 on “Credit_data.csv”, which was used to train and validate the model. 
+
+
+## Overview of the analysis
+
+-	Creating Prediction Model based on existing clients
+-	 Importing and inspecting the data
+-	 Pre-processing the data
+-	 Feature engineering 
+-	 Building the logistic regression model
+-	 Selecting a Threshold that maximize bank’s profits
+-	 Retraining the model with combined train and validation set
+-	Using the Model on new applicants of the pilot
+-	 Importing and inspecting the data for new applicants 
+-	 Pre-processing the data
+-	 Predicting default clients in the new applicants
