@@ -1,3 +1,5 @@
+<img src="credit_cart_image.jpg" width="100" height="100">
+
 ## Business Context
 
 A major bank wants to pilot a new product, a short-term credit line with the limit of £25,000 and line of 1 month with interest of 2% per month. Then assume that the client who was issued credit and repaid it will more likely use your bank for similar short-term financing needs in the future, which has an additional lifetime value (CLV) of £1,000. However, if the client will default, then you will be able to recover only £20,000 out of £25,000 granted.
