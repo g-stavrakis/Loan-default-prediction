@@ -19,13 +19,13 @@ Of those 25,000 clients, 1,000 were randomly selected as the test set and stored
 ## Overview of the analysis
 
 -	Creating Prediction Model based on existing clients
-  - Importing and inspecting the data
-  -	Pre-processing the data
-  -	Feature engineering 
-  -	Building the logistic regression model
-  -	Selecting a Threshold that maximize bank’s profits
-  -	Retraining the model with combined train and validation set
+    - Importing and inspecting the data
+    -	Pre-processing the data
+    -	Feature engineering 
+    -	Building the logistic regression model
+    -	Selecting a Threshold that maximize bank’s profits
+    -	Retraining the model with combined train and validation set
 -	Using the Model on new applicants of the pilot
-  -	Importing and inspecting the data for new applicants 
-  -	Pre-processing the data
+    -	Importing and inspecting the data for new applicants 
+    -	Pre-processing the data
   -	Predicting default clients in the new applicants
