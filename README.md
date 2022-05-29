@@ -1,4 +1,4 @@
-<img src="credit_cart_image.jpg" width="100" height="100">
+![image](credit_cart_image.jpg)
 
 ## Business Context
 
